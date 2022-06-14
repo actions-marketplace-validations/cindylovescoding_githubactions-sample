@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'Hello github actions'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
